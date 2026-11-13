@@ -26,9 +26,12 @@ SALE_DESCRIPTIONS = (
 
 
 def sale_description(offer_id, discount):
-    if not 25 <= discount <= 40:
-        return f"Скидка {discount}% в Hobby Games. Онлайн-распродажа до 29 ноября"
-    return SALE_DESCRIPTIONS[crc32(offer_id.encode("utf-8")) % len(SALE_DESCRIPTIONS)]
+    descriptions = SALE_DESCRIPTIONS
+    if discount in (15, 20):
+        descriptions = tuple(text for text in descriptions if "до 40%" in text)
+    elif discount == 50:
+        descriptions = tuple(text for text in descriptions if "от 25%" in text)
+    return descriptions[crc32(offer_id.encode("utf-8")) % len(descriptions)]
 
 
 def read_table(filename, columns):
