@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<yml_catalog date="2026-11-13 06:15">
+<yml_catalog date="2026-11-14 06:16">
   <shop>
     <name>Hobby Games</name>
     <company>ООО Лавка Чудес</company>
@@ -681,7 +681,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>953086834250</barcode>
+        <barcode>581745791915</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/klassika/serdce-roja/renders/serdce-roja-displej-1024x1024.jpg</picture>
@@ -801,7 +801,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>638397237691</barcode>
+        <barcode>397310381132</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/novoe-vremja-renesans/bundle-1024x1024.jpg</picture>
@@ -1312,7 +1312,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>298734447268</barcode>
+        <barcode>727219800334</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/beskonechnije-razborki/bundle-beskonechnije-razborki-1024x1024.jpg</picture>
@@ -1636,7 +1636,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>387295830336</barcode>
+        <barcode>116513081591</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/ticket-to-ride/bundle-ttr-legendarnij-sostav-6-trains-1024x1024.jpg</picture>
@@ -1875,7 +1875,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>405161571950</barcode>
+        <barcode>578051063598</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/hroniki-magii/bundle-hg-hroniki-magii-1024x1024.jpg</picture>
@@ -1927,7 +1927,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>205923806220</barcode>
+        <barcode>547575412658</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/yader-cola-odobryaet/nabor-igr-jader-kola-odobrjae-00-1024x1024.jpg</picture>
@@ -2438,7 +2438,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>146541339824</barcode>
+        <barcode>778473272807</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/oathsworn/full-bundle-1024x1024.jpg</picture>
@@ -2523,7 +2523,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Настольная игра</typePrefix>
-        <barcode>727071003971</barcode>
+        <barcode>158397860506</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/agrikola/jubilejnoje-izdanie/00-promo-1024x1024.jpg</picture>
@@ -3051,7 +3051,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>431093454307</barcode>
+        <barcode>748143795453</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/gerojskaja-amunicija/bundle-new-gerojskaja-amunicija-1024x1024.jpg</picture>
@@ -3715,7 +3715,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>309966247257</barcode>
+        <barcode>577503234220</barcode>
         <categoryId>900008</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/neopisujemije-istorii/bundle-hg-neopisujemije-istorii-1024x1024.jpg</picture>
@@ -4073,7 +4073,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>594809155543</barcode>
+        <barcode>441851531476</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/golod/golod-bundle-1024x1024.jpg</picture>
@@ -4244,7 +4244,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>719351160022</barcode>
+        <barcode>263209528550</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/letopis-zimnegrada/bundle-letopis-zimnegrada-1024x1024.jpg</picture>
@@ -4398,7 +4398,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>455135759383</barcode>
+        <barcode>660492842745</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/teni-iz-zabytja/bundle-teni-iz-zabytja-1024x1024.jpg</picture>
@@ -4688,7 +4688,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>475860236675</barcode>
+        <barcode>736688342189</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Machi_Koro/Machi_Koro_bundle-1024x1024.jpg</picture>
@@ -4893,7 +4893,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>660755168554</barcode>
+        <barcode>845426087574</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/hodjachije-mertvecy/bundle-hodjachije-mertvecy-02-1024x1024.jpg</picture>
@@ -4911,7 +4911,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>740941808890</barcode>
+        <barcode>883488953409</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/velichije-predkov/bundle-velichije-predkov-1024x1024.jpg</picture>
@@ -5065,7 +5065,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>785387057270</barcode>
+        <barcode>532362781046</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/klassika/gibel-bogov/hg/berserk-gibel-bogov-display-00-1024x1024.jpg</picture>
@@ -5474,7 +5474,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>926415943417</barcode>
+        <barcode>103114660117</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/pokoriteli-zemel/bundle-catan-2-1024x1024.jpg</picture>
@@ -5713,7 +5713,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>675056495619</barcode>
+        <barcode>361259399290</barcode>
         <categoryId>900012</categoryId>
         <vendor>Wizards of the Coast</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wizards-of-the-coast/magic-the-gathering/marvels-spider-man/spiderman-display-1024x1024.jpg</picture>
@@ -5816,7 +5816,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>749946145359</barcode>
+        <barcode>816580064993</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/poslednij-oplot-garmonii/bundle-poslednij-oplot-garmonii-1024x1024.jpg</picture>
@@ -5902,7 +5902,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>882572769350</barcode>
+        <barcode>429065269908</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/skrezhet-metalla/bundle-hg-skrezhet-metalla-1024x1024.jpg</picture>
@@ -5920,7 +5920,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>878115690180</barcode>
+        <barcode>180525292091</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/zombi-vestern/bundle-hg-zombi-vestern-1024x1024.jpg</picture>
@@ -6176,7 +6176,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>563805447840</barcode>
+        <barcode>786477568704</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/chumovaya-razborka/bundle-hg-chumovaya-razborka-1024x1024.jpg</picture>
@@ -6296,7 +6296,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>126878001012</barcode>
+        <barcode>195672993767</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/bogataja-dolina/bundle-everdell-bogataja-dolina-2-1024x1024.jpg</picture>
@@ -6331,7 +6331,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>284764293866</barcode>
+        <barcode>190964535946</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/vperjod-za-mezhdugorje/bundle-vperjod-za-mezhdugorje-1024x1024.jpg</picture>
@@ -6366,7 +6366,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>791639802807</barcode>
+        <barcode>362065967409</barcode>
         <categoryId>900013</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/kingmaker/bundle-kingmaker-2-1024x1024.jpg</picture>
@@ -6520,7 +6520,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>959744807069</barcode>
+        <barcode>852306016738</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/kosmicheskaya-odisseya/kosmicheskaya-odisseya-bundle-1024x1024.jpg</picture>
@@ -6538,7 +6538,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>776809844323</barcode>
+        <barcode>514772116141</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/uzhasajuschij-kruiz/bundle-uzhasajuschij-kruiz-1024x1024.jpg</picture>
@@ -6710,7 +6710,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>127641738640</barcode>
+        <barcode>579267756155</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/galopom-po-evropam/bundle-galopom-po-evropam-1024x1024.jpg</picture>
@@ -6916,7 +6916,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>416187359714</barcode>
+        <barcode>100903773233</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/po-sekretnim-dokumentam/komitet-bundle-1024x1024.jpg</picture>
@@ -7698,7 +7698,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>321130219097</barcode>
+        <barcode>360558099573</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/posidelki-v-taverne/bundle-posidelki-v-taverne-2-1024x1024.jpg</picture>
@@ -7818,7 +7818,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>880822553398</barcode>
+        <barcode>733297738831</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/na-zakate-mira/bundle-na-zakate-mira-1024x1024.jpg</picture>
@@ -8177,7 +8177,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>906614271239</barcode>
+        <barcode>984285359849</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/novoe-vremja-renesans/bundle-fantasticheskaja-italija-1024x1024.jpg</picture>
@@ -9437,7 +9437,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>416126270005</barcode>
+        <barcode>432275856195</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/hvostatij-komplekt/bundle-hvostatij-komplekt-3-1024x1024.jpg</picture>
@@ -9590,7 +9590,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>737276342334</barcode>
+        <barcode>256428153372</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/pir-vo-vremja-chumi/bundle-ziv-pir-vo-vremja-chumi-1024x1024.jpg</picture>
@@ -9608,7 +9608,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>723527439893</barcode>
+        <barcode>839184627479</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/bogatije-zemli/bundle-hg-bogatije-zemli-1024x1024.jpg</picture>
@@ -9847,7 +9847,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>481957310237</barcode>
+        <barcode>570335838781</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/polnaja-ekipirovka/bundle-polnaja-ekipirovka-1024x1024.jpg</picture>
@@ -9933,7 +9933,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>761197725636</barcode>
+        <barcode>423804506629</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/skazanije-o-prizrachnom-poezde/bundle-skazanije-o-prizrachnom-poezde-1024x1024.jpg</picture>
@@ -10649,7 +10649,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>981958385299</barcode>
+        <barcode>179471095956</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/razgadka-uzhe-blizka/bundle-razgadka-uzhe-blizka-1024x1024.jpg</picture>
@@ -10701,7 +10701,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>553000670349</barcode>
+        <barcode>687042850013</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/shakal/new-bundle-hg-shakal-archipelag-1024x1024.jpg</picture>
@@ -10941,7 +10941,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>819838345138</barcode>
+        <barcode>501783656176</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/vizhit-ljuboj-cenoj/bundle-vizhit-ljuboj-cenoj-1024x1024.jpg</picture>
@@ -11351,7 +11351,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>516607241777</barcode>
+        <barcode>895830471627</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/zvezda/bundles/ujutnoje-kafe/bundle-ujutnoje-kafe-1024x1024.jpg</picture>
@@ -11607,7 +11607,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>790203132062</barcode>
+        <barcode>962474460288</barcode>
         <categoryId>900012</categoryId>
         <vendor>Wizards of the Coast</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wizards-of-the-coast/magic-the-gathering/teenage-mutant-ninja-turtles/tmnt-play-boosters-display-1024x1024.jpg</picture>
@@ -11676,7 +11676,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>323615148657</barcode>
+        <barcode>910757774696</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/podzemnie-ispitanija/bundle-podzemnie-ispitania-2-1024x1024.jpg</picture>
@@ -11796,7 +11796,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>686637407333</barcode>
+        <barcode>364888630502</barcode>
         <categoryId>900002</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/stil-zhizni/bundles/nasledije-drevnih/bundle-nasledije-drevnih-1024x1024.jpg</picture>
@@ -11830,7 +11830,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Дополнение</typePrefix>
-        <barcode>706640556819</barcode>
+        <barcode>615889713639</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/drevnee-znanie/vsemirnoe-nasledie/00-1024x1024.jpg</picture>
@@ -12051,7 +12051,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>992133613063</barcode>
+        <barcode>218526066290</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/general/bundle-generali-2-karta-00-1024x1024.jpg</picture>
@@ -12120,7 +12120,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>878898759710</barcode>
+        <barcode>712943271274</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/vzlom/bundle-hg-hakerskaja-ataka-1024x1024.jpg</picture>
@@ -12461,7 +12461,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>603590924109</barcode>
+        <barcode>465818017970</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/zemledelcheskij-raj/bundle-zemledelcheskij-raj-1024x1024.jpg</picture>
@@ -12665,7 +12665,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>843454219930</barcode>
+        <barcode>956771500028</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/oathsworn/oasworn-nabor-tainstvennih-sundukov/hg/oathsworn-tainy-temnolesjya-tainstvennije-sunduki-00-1024x1024.jpg</picture>
@@ -12717,7 +12717,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>770221910195</barcode>
+        <barcode>279449581833</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/sokrovishha-proshlogo/drevnee-znanie-bundle-1024x1024.jpg</picture>
@@ -12752,7 +12752,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>767583660046</barcode>
+        <barcode>504883651304</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/kosmicheskie-vojni/bundle-zvezdnye-imperii-kosmicheskie-vojni-new-1024x1024.jpg</picture>
@@ -12940,7 +12940,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>810559220700</barcode>
+        <barcode>468338025278</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/magellan/bundles/vosstanie-mashin/nabor-igr-vosstanie-mashin-1024x1024.jpg</picture>
@@ -12975,7 +12975,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>885720694516</barcode>
+        <barcode>993392936776</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/magellan/bundles/more-po-koleno/nabor-igr-more-po-koleno-1024x1024.jpg</picture>
@@ -13809,7 +13809,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>814405708609</barcode>
+        <barcode>207751116273</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/misticheskie-kulty/bundle-drevnij-uzhas-2-1024x1024.jpg</picture>
@@ -13929,7 +13929,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>988162565833</barcode>
+        <barcode>179614714941</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/klassika/lojnie-bogi/berserk-lojnie-bogi-displej-00-1024x1024.jpg</picture>
@@ -14304,7 +14304,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>976166702198</barcode>
+        <barcode>291597982760</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/saga-o-velikoj-zime/bundle-saga-o-velikoj-zime-2-1024x1024.jpg</picture>
@@ -14594,7 +14594,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>386507507318</barcode>
+        <barcode>418153449231</barcode>
         <categoryId>900013</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/fateforge/ustrojstvo-vselennoi/bundle-hg-ustrojstvo-vselennoj-1024x1024.jpg</picture>
@@ -14748,7 +14748,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>254666343198</barcode>
+        <barcode>498913613229</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/warcrow/2026/06-10/red-caps/bundle/000-1024x1024.jpg</picture>
@@ -14766,7 +14766,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>807984460194</barcode>
+        <barcode>280870792551</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/magellan/bundles/chuzhoj-sredi-svoih/bundle-chuzhoj-sredi-svoih-1024x1024.jpg</picture>
@@ -15689,7 +15689,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>364846324061</barcode>
+        <barcode>131679619516</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/klassika/put-hranitelej/berserk-put-hranitelej-display-1024x1024.jpg</picture>
@@ -15843,7 +15843,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>742386943213</barcode>
+        <barcode>326729125791</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/warcrow/warcrow-adventure-bundle-1024x1024.jpg</picture>
@@ -15963,7 +15963,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>252398099935</barcode>
+        <barcode>740713616459</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/po-gorjachim-sledam/bundle-po-goryachim-sledam-2-1024x1024.jpg</picture>
@@ -16186,7 +16186,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>854385533552</barcode>
+        <barcode>545747754273</barcode>
         <categoryId>900012</categoryId>
         <vendor>Wizards of the Coast</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Wizarsds_Of_the_Coast/Magic_the_Gathering/Strixhaven/MTG_Strixhaven_Rus_Display-1024x1024.jpg</picture>
@@ -16204,7 +16204,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор миниатюр</typePrefix>
-        <barcode>650650843861</barcode>
+        <barcode>204950030217</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/infinity/renders/08-05-26/bundle-1024x1024.jpg</picture>
@@ -16461,7 +16461,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>674423703441</barcode>
+        <barcode>203225365165</barcode>
         <categoryId>900002</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/stil-zhizni/bundles/ograblenie-poezda/bundle-kolt-jekspress-ograblenie-poezda-new-1024x1024.jpg</picture>
@@ -16496,7 +16496,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>531514576339</barcode>
+        <barcode>352806898421</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Berserk/Semena-Razdora/display-1024x1024.jpg</picture>
@@ -16548,7 +16548,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>976149797702</barcode>
+        <barcode>637957172662</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/mesto-prestuplenija-svjazannie-vremenem/svjazannie-vremenem-00-1024x1024.jpg</picture>
@@ -16634,7 +16634,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>147007405113</barcode>
+        <barcode>948742405449</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/sokrovischa-piramidi-murzesa/bundle-sokrovischa-piramidi-murzesa-1024x1024.jpg</picture>
@@ -17436,7 +17436,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>632043402452</barcode>
+        <barcode>683331808432</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/zvezdi-soshlis/new-bundle-zvjozdy-soshlis-v1-1024x1024.jpg</picture>
@@ -17505,7 +17505,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>682373551302</barcode>
+        <barcode>339313619629</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/bitva-za-rammarat/display/hg/berserk-geroi-bitva-za-rammarat-displej-busterov-00-1024x1024.jpg</picture>
@@ -17896,7 +17896,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Настольная игра</typePrefix>
-        <barcode>158428955106</barcode>
+        <barcode>701468351076</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/mayor-grom-spin-off/renders/promo-01-new-1024x1024.jpg</picture>
@@ -18511,7 +18511,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>596337621039</barcode>
+        <barcode>616780159884</barcode>
         <categoryId>900002</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/neobjasnimo-no-fakt/bundle-neobjasnimo-no-fakt-1024x1024.jpg</picture>
@@ -19312,7 +19312,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>455525891179</barcode>
+        <barcode>456027545257</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/rammarat/rammarat-displey-1024x1024.jpg</picture>
@@ -19449,7 +19449,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>636429331245</barcode>
+        <barcode>307195862015</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/relsy-sudby/nabor-igr-relsy-sudby-1024x1024.jpg</picture>
@@ -19690,7 +19690,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>402242242280</barcode>
+        <barcode>263925077249</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/lesnoe-carstvo/gribi-i-korni-bundle-2-1024x1024.jpg</picture>
@@ -20169,7 +20169,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>454808301378</barcode>
+        <barcode>250861954673</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Black_Rose_War/Familiars/Familiars_Bundle00-1024x1024.jpg</picture>
@@ -20204,7 +20204,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>693557201336</barcode>
+        <barcode>755625455769</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/polubog-filantrop/bundle-hg-polubog-filantrop-1024x1024.jpg</picture>
@@ -21194,7 +21194,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>229578978611</barcode>
+        <barcode>666164741624</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/infinity/renders/tag-raid/platinum-pledge-00-1024x1024.jpg</picture>
@@ -21757,7 +21757,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>902107203616</barcode>
+        <barcode>853955395226</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/ogni-bolschogo-goroda/ogni-bolschogo-goroda-displej-1024x1024.jpg</picture>
@@ -21963,7 +21963,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>102255258667</barcode>
+        <barcode>225915228886</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/mezenskaja-rospis/bundle-hg-mezenskaja-rospis-1024x1024.jpg</picture>
@@ -23122,7 +23122,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>524582940400</barcode>
+        <barcode>697438382972</barcode>
         <categoryId>900011</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/stal-i-plamja/bundle-battletech-stal-i-plamja-1024x1024.jpg</picture>
@@ -24178,7 +24178,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>650416953204</barcode>
+        <barcode>699440704526</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/velichestvennije-tropiki/bundle-velichestvennije-tropiki-1024x1024.jpg</picture>
@@ -25404,7 +25404,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>224893423005</barcode>
+        <barcode>766800596576</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/samaya-samaya-vecherinka/samaya-samaya-vecherinka-1024x1024.jpg</picture>
@@ -26531,7 +26531,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>556774985076</barcode>
+        <barcode>149149865110</barcode>
         <categoryId>900003</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/ljod-i-bezdna/bundle-hg-ljod-i-bezdna-1024x1024.jpg</picture>
@@ -26686,7 +26686,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>178596911160</barcode>
+        <barcode>241166087101</barcode>
         <categoryId>900008</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/intrigi-i-batalii/bundle-hg-intrigi-i-batalii-1024x1024.jpg</picture>
@@ -26875,7 +26875,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>873413283454</barcode>
+        <barcode>489381146544</barcode>
         <categoryId>900003</categoryId>
         <vendor>Zvezda</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/zvezda/bundles/geroi-boevikov/bundle-hg-geroi-boevikov-1024x1024.jpg</picture>
@@ -26996,7 +26996,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>116167598309</barcode>
+        <barcode>164736132199</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/teni-vosstanija/bundle-teni-vosstanija-1024x1024.jpg</picture>
@@ -27014,7 +27014,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>498359951708</barcode>
+        <barcode>117120672002</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/-renders/24-07-2025/bundle-warcrow/bundle-the-song-of-the-dormant-1024x1024.jpg</picture>
@@ -27683,7 +27683,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>951469045235</barcode>
+        <barcode>106369828772</barcode>
         <categoryId>900008</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/neozhidannij-povorot/bundle-hg-neozhidannij-povorot-1024x1024.jpg</picture>
@@ -28878,7 +28878,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>419878782929</barcode>
+        <barcode>725602379088</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/zolotoy-vek/renders/berserk-zolotoy-vek-display-00-1024x1024.jpg</picture>
@@ -28947,7 +28947,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>624769222475</barcode>
+        <barcode>991316876246</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/estestvennaja-istorija/bundle-estestvennaja-istorija-1024x1024.jpg</picture>
@@ -29785,7 +29785,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>216002984642</barcode>
+        <barcode>945666078684</barcode>
         <categoryId>900003</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/stil-zhizni/bundles/uroki-istorii/bundle-hg-uroki-istorii-1024x1024.jpg</picture>
@@ -30024,7 +30024,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>919375494573</barcode>
+        <barcode>708686439482</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/general/bundle-generali-2-0-1024x1024.jpg</picture>
@@ -30229,7 +30229,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>360159726796</barcode>
+        <barcode>255681891403</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/lepota-kakaja/bundle-lepota-kakaja-2-1024x1024.jpg</picture>
@@ -31584,7 +31584,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>556692945167</barcode>
+        <barcode>588455409085</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/vam-posylka/bundle-vam-posilka-2-1024x1024.jpg</picture>
@@ -31602,7 +31602,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>736085444978</barcode>
+        <barcode>198496437593</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/kontaktnij-zoopark/bundle-kontaktnij-zoopark-2-1024x1024.jpg</picture>
@@ -33413,7 +33413,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>383904502572</barcode>
+        <barcode>586094925889</barcode>
         <categoryId>900012</categoryId>
         <vendor>Wizards of the Coast</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Wizarsds_Of_the_Coast/Magic_the_Gathering/Kaldheim/MTG_Kaldheim_Display_Rus-1024x1024.jpg</picture>
@@ -35135,7 +35135,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>936728735464</barcode>
+        <barcode>302445282520</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/kolibel-zabitoj-sili/bundle-kolibel-zabitoj-sili-1024x1024.jpg</picture>
@@ -37494,7 +37494,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>247906858955</barcode>
+        <barcode>926510218823</barcode>
         <categoryId>900002</categoryId>
         <vendor>Zvezda</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/zvezda/bundles/novyje-lideri/bundle-poselenci-novyje-lideri-3-1024x1024.jpg</picture>
@@ -37546,7 +37546,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор</typePrefix>
-        <barcode>435038204954</barcode>
+        <barcode>336940765769</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/-renders/21-11-25/new-wave-bundle-1024x1024.jpg</picture>
@@ -38774,7 +38774,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>895072058435</barcode>
+        <barcode>669893054254</barcode>
         <categoryId>900003</categoryId>
         <vendor>Фабрика игр</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/fabrika-igr/meeples-and-monsters/meeples-and-monsters-00-1024x1024.jpg</picture>
@@ -39475,7 +39475,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>657343528451</barcode>
+        <barcode>828682048807</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/zakrutilos-zavertelos/bundle-zakrutilos-zavertelos-1024x1024.jpg</picture>
@@ -40705,7 +40705,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>374192558856</barcode>
+        <barcode>343664539230</barcode>
         <categoryId>900002</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/zakon-i-besporjadok/pobeg-iz-nju-jorka-bundle-1024x1024.jpg</picture>
@@ -42160,7 +42160,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>572793778612</barcode>
+        <barcode>899840689639</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/ege-v-mire-skazok/bundle-hg-ege-v-mire-skazok-1024x1024.jpg</picture>
@@ -42707,7 +42707,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор миниатюр</typePrefix>
-        <barcode>521839414805</barcode>
+        <barcode>904171200652</barcode>
         <categoryId>900011</categoryId>
         <vendor>Corvus Belli</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/corvus-belli/-renders/17-04-26/bundle-1024x1024.jpg</picture>
@@ -45955,7 +45955,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>137522446130</barcode>
+        <barcode>530403639155</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/svinaya-otbivnaya/nabor-svinaya-otbivnaya-1-1024x1024.jpg</picture>
@@ -49618,7 +49618,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>966302035808</barcode>
+        <barcode>760817844729</barcode>
         <categoryId>900003</categoryId>
         <vendor>Стиль Жизни</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/pod-kljuch/bundle-pod-kljuch-1024x1024.jpg</picture>
@@ -53027,7 +53027,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>393194660556</barcode>
+        <barcode>474178767514</barcode>
         <categoryId>900008</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/secretnyje-sily/bundle-hg-secretnyje-sily-1024x1024.jpg</picture>
@@ -62216,7 +62216,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>678101630928</barcode>
+        <barcode>305402754356</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/Base_Game00-1024x1024.jpg</picture>
@@ -66045,7 +66045,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>621270233188</barcode>
+        <barcode>274414481923</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/jedinaja-liga/bundle-edinaja-liga-new-1024x1024.jpg</picture>
@@ -66269,7 +66269,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Набор настольных игр</typePrefix>
-        <barcode>161254487664</barcode>
+        <barcode>321285261603</barcode>
         <categoryId>900003</categoryId>
         <vendor>Magellan</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/korol-vecherinki/bundle-hg-korol-vecherinki-1024x1024.jpg</picture>
@@ -67370,7 +67370,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>953464406008</barcode>
+        <barcode>714234590114</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/tropicheskij-zabeg/bundle-tropicheskij-zabeg-1024x1024.jpg</picture>
@@ -70021,7 +70021,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>219315298795</barcode>
+        <barcode>115411572469</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/bundles/lapi-kogti-mikrofon/bundle-lapi-kogti-mikrofon-1024x1024.jpg</picture>
@@ -78656,7 +78656,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>822553471810</barcode>
+        <barcode>363099712607</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-chto-skryvaetsja-za-maskoj-1024x1024.jpg</picture>
@@ -90276,7 +90276,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>300612036886</barcode>
+        <barcode>444704854048</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-himer-mnogo-ne-byvajet-1024x1024.jpg</picture>
@@ -91929,7 +91929,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>672051030811</barcode>
+        <barcode>172778799667</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-vlastiteli-tenej-1024x1024.jpg</picture>
@@ -97863,7 +97863,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>262069797687</barcode>
+        <barcode>612720126772</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-skotnij-dvor-1024x1024.jpg</picture>
@@ -105469,7 +105469,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>158108407257</barcode>
+        <barcode>952178169749</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-vooruzheni-i-opasni-1024x1024.jpg</picture>
@@ -105487,7 +105487,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>984697353486</barcode>
+        <barcode>406496677772</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-kucha-nechisti-1024x1024.jpg</picture>
@@ -129364,7 +129364,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>106158116662</barcode>
+        <barcode>698615701485</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/owlcat-games/pathfinder-wrath-of-the-righteous/goty/goty-00-1024x1024.jpg</picture>
@@ -149084,7 +149084,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>160713497312</barcode>
+        <barcode>287527716650</barcode>
         <categoryId>900011</categoryId>
         <vendor>Wyrd Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/wyrd-games/malifaux/bundles/bundle-bronirovannije-i-kolossalnije-1024x1024.jpg</picture>
@@ -151268,7 +151268,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>418150675748</barcode>
+        <barcode>844092234807</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/owlcat-games/pathfinder-wrath-of-the-righteous/dlc5-00-1024x1024.jpg</picture>
@@ -151388,7 +151388,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>696389362089</barcode>
+        <barcode>345626109141</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/Inevitable_Excess00-1024x1024.jpg</picture>
@@ -156940,7 +156940,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>869032304694</barcode>
+        <barcode>968934449471</barcode>
         <categoryId>900003</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/priroda/bundle-zakoni-dzhunglej-1024x1024.jpg</picture>
@@ -161514,7 +161514,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>139789622771</barcode>
+        <barcode>899663112765</barcode>
         <categoryId>900012</categoryId>
         <vendor>Hobby World</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/hobby-world/berserk/geroi/krah-svyatin/display-1024x1024.jpg</picture>
@@ -172977,7 +172977,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>419166624189</barcode>
+        <barcode>290972236070</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/The_Last_Sarkorians00-1024x1024.jpg</picture>
@@ -176664,7 +176664,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>273620567890</barcode>
+        <barcode>426979348177</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/Season_Pass2_00-1024x1024.jpg</picture>
@@ -176680,7 +176680,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>659231657093</barcode>
+        <barcode>313022543662</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/Through_the_Ashes00-1024x1024.jpg</picture>
@@ -179429,7 +179429,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>388331181856</barcode>
+        <barcode>463363345469</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/owlcat-games/pathfinder-wrath-of-the-righteous/a-dance-of-the-masks/dlc6-00-1024x1024.jpg</picture>
@@ -188319,7 +188319,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>837848987280</barcode>
+        <barcode>354311880508</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/Commander_Pack00-1024x1024.jpg</picture>
@@ -188335,7 +188335,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>817181641658</barcode>
+        <barcode>715363252652</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/season_pass00-1024x1024.jpg</picture>
@@ -192852,7 +192852,7 @@
         <currencyId>RUB</currencyId>
         <delivery>true</delivery>
         <typePrefix>Прочее</typePrefix>
-        <barcode>488505232307</barcode>
+        <barcode>906676949460</barcode>
         <categoryId>900003</categoryId>
         <vendor>Owlcat Games</vendor>
         <picture>https://hobbygames.ru/image/cache/hobbygames_beta/data/Owlcat_Games/Pathfinder_Wrath_of_the_Righteous/The_Treasure_of_the_Midnight_Isles00-1024x1024.jpg</picture>
