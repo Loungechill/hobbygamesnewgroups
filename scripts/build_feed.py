@@ -1,5 +1,4 @@
 import csv
-from decimal import Decimal, ROUND_HALF_UP
 from pathlib import Path
 import sys
 from zlib import crc32
@@ -62,7 +61,7 @@ def build(source):
     if tree.getroot().tag != "yml_catalog" or not offers:
         raise ValueError("Source is not a YML feed with offers")
     seen = set()
-    discounted = 0
+    promotional = 0
     for offer in offers:
         offer_id = offer.get("id")
         if not offer_id or offer_id in seen:
@@ -76,29 +75,19 @@ def build(source):
         promotion = sale.get(offer_id)
         ET.SubElement(offer, "custom_score").text = promotion["custom_score"] if promotion else "0"
         if promotion:
-            prices = offer.findall("price")
-            if len(prices) != 1 or not prices[0].text:
-                raise ValueError(f"Expected one price for {offer_id}")
-            price = prices[0]
-            current = Decimal(price.text)
-            if not current.is_finite() or current <= 0:
-                raise ValueError(f"Invalid price for {offer_id}")
             discount = int(promotion["discount_percent"])
-            multiplier = Decimal(100 - discount) / 100
-            final = (current * multiplier).quantize(Decimal("0.01"), rounding=ROUND_HALF_UP)
-            price.text = format(final, "f").rstrip("0").rstrip(".")
             description = offer.find("description")
             if description is None:
                 description = ET.SubElement(offer, "description")
             description.clear()
             description.text = sale_description(offer_id, discount)
-            discounted += 1
+            promotional += 1
 
     target = ROOT / "hobbygames-sale.yml"
     temporary = target.with_suffix(".tmp")
     tree.write(temporary, encoding="UTF-8", xml_declaration=True)
     temporary.replace(target)
-    print(f"Offers: {len(offers)}. Sale: {discounted}. Sale IDs absent in source: {len(sale)-discounted}.")
+    print(f"Offers: {len(offers)}. Sale: {promotional}. Sale IDs absent in source: {len(sale)-promotional}.")
 
 
 if __name__ == "__main__":
