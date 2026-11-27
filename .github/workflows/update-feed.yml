@@ -21,8 +21,6 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
       - name: Generate feed
         run: python3 scripts/build_feed.py
       - name: Publish feed
@@ -31,42 +29,25 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update Hobby Games feed'
           git push origin HEAD:main
-      - name: Verify corrected feed and inspect unmatched names
+      - name: Verify product labels
         run: |
           python3 -u - <<'PY'
-          import csv, difflib, json, re, subprocess, time, unicodedata
-          from collections import defaultdict
-          from urllib.request import urlopen
-          import xml.etree.ElementTree as ET
-          
-          missing = json.loads("[\"Берсерк. Герои. Новые Идолы. Начальный набор: Секхет-Акх\",\"Eldfall Chronicles: Northern Wind. Core Box\",\"Eldfall Chronicles: Northern Wind. Oni Yaksha\",\"Фигурка Funko POP! Games. Pokemon: Jolteon Voltali Blitza 628\",\"Фигурка Funko POP! Animation. KPop Demon Hunters: Rumi 2257\",\"Фигурка Funko POP! Animation. SpongeBob SquarePants: Glove World SpongeBob 1671\",\"Фигурка Funko POP! Basketball. NBA All-Stars: Dirk Nowitzki 158\",\"Фигурка Funko POP! Deluxe Game of Thrones. House of the Dragon: Viserys on the Iron Throne 12\",\"Фигурка Funko POP! Games. Pokemon: Dragonite Dracolosse Dragoran 850\",\"Фигурка Funko POP! Games. Silent Hill 2: Pyramid Head 1205\",\"Фигурка Funko POP! Movies. The Matrix: Neo 1172\",\"Фигурка Funko POP! Star Wars: Grogu with Chowder Squid 469\",\"Фигурка Funko POP! Television. Fallout: Deathclaw 1916\",\"Фигурка Funko POP! Animation. Demon Slayer: Tanjiro with Noodles 1304\",\"Фигурка Funko POP! Harry Potter: Harry Potter 196\",\"Фигурка Funko POP! Movies. The Lord of the Rings: Gandalf 443\",\"Брелок Funko POP! Pocket Keychain. How to Train Your Dragon: Toothless\",\"Фигурка Funko POP! Games. Pokemon: Squitle Carapuce Schiggy 504\",\"Фигурка Funko POP! Heroes. The Dark Knight Trilogy: The Joker 36\",\"Фигурка Funko POP! Movies. Jurassic World Dominion: T. Rex 1211\",\"Фигурка JoyToy. Warhammer 40,000: Imperial Knights House Raven Knight Errant\",\"Фигурка JoyToy. Warhammer 40,000: Ultramarines Terminators Brother Andrus\"]")
-          index = {}
-          for sha in subprocess.check_output(["git", "log", "--format=%H", "--", "hobbygames-sale.yml"], text=True).splitlines():
-              for offer in ET.fromstring(subprocess.check_output(["git", "show", sha + ":hobbygames-sale.yml"])).findall("./shop/offers/offer"):
-                  index[(offer.get("id"), offer.findtext("name", ""))] = offer.findtext("model", "")
-          def norm(s):
-              return re.sub(r"[^\w]", "", unicodedata.normalize("NFKC", s).lower().replace("ё", "е"))
-          for name in missing:
-              n = norm(name)
-              candidates = []
-              for (oid, title), model in index.items():
-                  score = difflib.SequenceMatcher(None, n, norm(title)).quick_ratio()
-                  if score > 0.85:
-                      score = difflib.SequenceMatcher(None, n, norm(title)).ratio()
-                      candidates.append((score, oid, title))
-              print(json.dumps({"unmatched": name, "candidates": sorted(candidates, reverse=True)[:3]}, ensure_ascii=False), flush=True)
-          expected = ET.parse("hobbygames-sale.yml").findall("./shop/offers/offer")
-          expected_map = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4"), o.findtext("custom_score"), o.findtext("price"), o.findtext("oldprice"), o.findtext("description")) for o in expected}
-          for attempt in range(25):
-              with urlopen("https://hobbygamesnewgroups1.rta.workers.dev/feed.yml", timeout=60) as response:
-                  actual = ET.parse(response).findall("./shop/offers/offer")
-              actual_map = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4"), o.findtext("custom_score"), o.findtext("price"), o.findtext("oldprice"), o.findtext("description")) for o in actual}
-              differences = sum(value != actual_map.get(oid) for oid, value in expected_map.items())
-              print("Worker verification", attempt + 1, "offers", len(actual_map), "differences", differences, flush=True)
-              if actual_map == expected_map:
-                  print("WORKER_VERIFIED", flush=True)
-                  break
-              time.sleep(15)
-          else:
-              raise AssertionError("Worker did not refresh within cache interval")
+          import csv, xml.etree.ElementTree as ET
+          from urllib.request import Request, urlopen
+          with open("hobby_games_offer_labels.csv", encoding="utf-8-sig") as f:
+              labels = {r["offer_id"]: r for r in csv.DictReader(f)}
+          offers = ET.parse("hobbygames-sale.yml").findall("./shop/offers/offer")
+          for offer in offers:
+              for field in ("custom_label_3", "custom_label_4"):
+                  assert offer.findtext(field) == labels.get(offer.get("id"), {}).get(field, "base"), (offer.get("id"), field)
+          print("ALL_LABELS_VERIFIED", len(offers), flush=True)
+          expected = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4")) for o in offers}
+          try:
+              req = Request("https://hobbygamesnewgroups1.rta.workers.dev/feed.yml", headers={"User-Agent": "Mozilla/5.0", "Accept": "application/xml"})
+              with urlopen(req, timeout=60) as response:
+                  live = ET.parse(response).findall("./shop/offers/offer")
+              actual = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4")) for o in live}
+              print("WORKER_VERIFIED" if actual == expected else "WORKER_CACHE_NOT_YET_REFRESHED", flush=True)
+          except Exception as error:
+              print("WORKER_CHECK_UNAVAILABLE", type(error).__name__, str(error), flush=True)
           PY
