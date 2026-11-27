@@ -3252,7 +3252,7 @@ offer_id,custom_label_3,custom_label_4
 138232,base,Kraski Vallejo
 138233,base,Kraski Vallejo
 138244,base,base
-138330,base,Ostrov dukhov
+138330,base,exclude
 138346,base,base
 138350,base,base
 138351,base,base
@@ -11050,7 +11050,7 @@ offer_id,custom_label_3,custom_label_4
 69645,base,base
 69648,base,base
 69660,base,base
-69671,base,Ostrov dukhov
+69671,base,exclude
 69771,base,base
 69780,base,base
 69782,base,base
@@ -11477,7 +11477,7 @@ offer_id,custom_label_3,custom_label_4
 75919,base,base
 75933,base,base
 75953,base,base
-75962,base,Ostrov dukhov
+75962,base,exclude
 75968,Uzhas Arkhema,Uzhas Arkhema
 75972,base,base
 76029,base,base
@@ -11700,7 +11700,7 @@ offer_id,custom_label_3,custom_label_4
 788547,base,base
 788548,base,base
 78855,base,base
-788554,base,Ostrov dukhov
+788554,base,exclude
 788557,base,base
 788569,base,base
 788574,base,base
@@ -15456,7 +15456,7 @@ offer_id,custom_label_3,custom_label_4
 99803,base,base
 99804,base,base
 99805,base,base
-99810,base,Ostrov dukhov
+99810,base,exclude
 99813,base,base
 99817,base,base
 99823,base,base
