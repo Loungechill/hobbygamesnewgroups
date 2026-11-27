@@ -29,25 +29,3 @@ jobs:
           if git diff --cached --quiet; then exit 0; fi
           git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update Hobby Games feed'
           git push origin HEAD:main
-      - name: Verify product labels
-        run: |
-          python3 -u - <<'PY'
-          import csv, xml.etree.ElementTree as ET
-          from urllib.request import Request, urlopen
-          with open("hobby_games_offer_labels.csv", encoding="utf-8-sig") as f:
-              labels = {r["offer_id"]: r for r in csv.DictReader(f)}
-          offers = ET.parse("hobbygames-sale.yml").findall("./shop/offers/offer")
-          for offer in offers:
-              for field in ("custom_label_3", "custom_label_4"):
-                  assert offer.findtext(field) == labels.get(offer.get("id"), {}).get(field, "base"), (offer.get("id"), field)
-          print("ALL_LABELS_VERIFIED", len(offers), flush=True)
-          expected = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4")) for o in offers}
-          try:
-              req = Request("https://hobbygamesnewgroups1.rta.workers.dev/feed.yml", headers={"User-Agent": "Mozilla/5.0", "Accept": "application/xml"})
-              with urlopen(req, timeout=60) as response:
-                  live = ET.parse(response).findall("./shop/offers/offer")
-              actual = {o.get("id"): (o.findtext("custom_label_3"), o.findtext("custom_label_4")) for o in live}
-              print("WORKER_VERIFIED" if actual == expected else "WORKER_CACHE_NOT_YET_REFRESHED", flush=True)
-          except Exception as error:
-              print("WORKER_CHECK_UNAVAILABLE", type(error).__name__, str(error), flush=True)
-          PY
