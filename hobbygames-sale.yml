@@ -1337,7 +1337,7 @@
         <custom_label_0>31069/30385/31218/31057/27906/28588/31038/28782/31035/31037/31030/31033/31026/31036/42394/31028/29094/30477/28577/28774</custom_label_0>
         <custom_label_1>0</custom_label_1>
         <custom_label_2>Настольная игра</custom_label_2>
-      <custom_label_3>base</custom_label_3><custom_label_4>Ostrov dukhov</custom_label_4><custom_score>0</custom_score></offer>
+      <custom_label_3>base</custom_label_3><custom_label_4>exclude</custom_label_4><custom_score>0</custom_score></offer>
       <offer id="794329" available="true">
         <name>Журнал "Мир фантастики" №275 (октябрь)</name>
         <model>Журнал "Мир фантастики" №275 (октябрь)</model>
@@ -4741,7 +4741,7 @@
         <custom_label_0>30385/31032/42927/62744/62851/31015/28588/30272/30477/28577</custom_label_0>
         <custom_label_1>0</custom_label_1>
         <custom_label_2>Дополнение</custom_label_2>
-      <custom_label_3>base</custom_label_3><custom_label_4>Ostrov dukhov</custom_label_4><custom_score>509</custom_score></offer>
+      <custom_label_3>base</custom_label_3><custom_label_4>exclude</custom_label_4><custom_score>509</custom_score></offer>
       <offer id="81095" available="true">
         <name>Набор миниатюр Warhammer Ultramarines Roboute Guilliman</name>
         <model>Ultramarines Roboute Guilliman</model>
@@ -6675,7 +6675,7 @@
         <custom_label_0>28588/28782/42791/30385/29094/31015/30272/28577/30477/28774/28772</custom_label_0>
         <custom_label_1>unknown</custom_label_1>
         <custom_label_2>unknown</custom_label_2>
-      <custom_label_3>base</custom_label_3><custom_label_4>Ostrov dukhov</custom_label_4><custom_score>0</custom_score></offer>
+      <custom_label_3>base</custom_label_3><custom_label_4>exclude</custom_label_4><custom_score>0</custom_score></offer>
       <offer id="100703" available="true">
         <name>Настольная игра Лига детективов: Новые миры</name>
         <model>Лига детективов: Новые миры</model>
@@ -11645,7 +11645,7 @@
         <custom_label_0>30385/62777/62780/31035/31037/31015/28588/30272/30477/28577</custom_label_0>
         <custom_label_1>0</custom_label_1>
         <custom_label_2>Дополнение</custom_label_2>
-      <custom_label_3>base</custom_label_3><custom_label_4>Ostrov dukhov</custom_label_4><custom_score>0</custom_score></offer>
+      <custom_label_3>base</custom_label_3><custom_label_4>exclude</custom_label_4><custom_score>0</custom_score></offer>
       <offer id="179353" available="true">
         <name>Набор миниатюр Warhammer Legiones Astartes: MKII Tactical Squad</name>
         <model>Legiones Astartes: MKII Tactical Squad</model>
@@ -13404,7 +13404,7 @@
         <custom_label_0>30385/31037/31015/28588/30272/30477/28577</custom_label_0>
         <custom_label_1>1</custom_label_1>
         <custom_label_2>Дополнение</custom_label_2>
-      <custom_label_3>base</custom_label_3><custom_label_4>Ostrov dukhov</custom_label_4><custom_score>0</custom_score></offer>
+      <custom_label_3>base</custom_label_3><custom_label_4>exclude</custom_label_4><custom_score>0</custom_score></offer>
       <offer id="792808" available="true">
         <name>Набор миниатюр Warhammer Combat Patrol: Battlezone Terrain Set</name>
         <model>Combat Patrol: Battlezone Terrain Set</model>
